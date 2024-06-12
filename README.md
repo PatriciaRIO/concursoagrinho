@@ -1,2 +1,2 @@
 # concursoagrinho
-Pata para o projeto do agrinho
+Para o projeto do agrinho
